@@ -1,4 +1,3 @@
-# === Assignment 1: Reddit Scraper using Playwright (with scrolling loader) ===
 # Requirements: pip install playwright && playwright install
 
 import asyncio
@@ -9,13 +8,29 @@ import asyncio
 from playwright.async_api import async_playwright
 import json
 
+
+
+# clean title
+import re
+import html
+
+def clean_title(title):
+    try:
+        title = title.encode('utf-16', 'surrogatepass').decode('utf-16')  # decode emoji
+    except:
+        pass
+    title = re.sub(r'[^\w\s.,!?()\-:]', '', title)  # remove emojis/symbols
+    title = html.unescape(title)  # unescape HTML characters
+    return title.strip()
+
+# Reddit web scrapping
 async def scrape_reddit():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False, slow_mo=50)
         page = await browser.new_page(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/114.0.0.0 Safari/537.36")
         await page.goto("https://www.reddit.com/r/Python/", timeout=60000)
 
-        # Accept cookies if popup appears
+   
         try:
             await page.click("button:has-text('Accept All')")
             await asyncio.sleep(1)
@@ -49,11 +64,14 @@ async def scrape_reddit():
                     collected_urls.add(url)
 
                     # Title
-                    title = await link_el.inner_text() if link_el else None
+                    raw_title = await link_el.inner_text() if link_el else None
+                    title = clean_title(raw_title) if raw_title else None
 
                     # Author
                     author_el = await post.query_selector("a[href*='/user/']")
                     author = await author_el.inner_text() if author_el else None
+                    author = author.replace("u/", "") if author else None
+
 
                     # Upvotes
                     upvote_el = await post.query_selector('span[data-post-click-location="vote"] faceplate-number')
@@ -101,7 +119,7 @@ async def scrape_reddit():
 
 
 
-# === Assignment 2: YouTube Scraper using Playwright ===
+
 
 import asyncio
 from playwright.async_api import async_playwright
@@ -111,6 +129,8 @@ import asyncio
 from playwright.async_api import async_playwright
 import json
 
+
+# Youtube Web scraping
 async def scrape_youtube():
     search_keywords = ["Python Tutorial", "AI", "Agents"]
     video_data = []
@@ -142,8 +162,12 @@ async def scrape_youtube():
                         channel_el = await video.query_selector("#channel-info #text")
                         metadata_spans = await video.query_selector_all("#metadata span.inline-metadata-item")
 
-                        title = await title_el.get_attribute("title") if title_el else None
+                        raw_title = await title_el.inner_text() if title_el else None
+                        title = clean_title(raw_title) if raw_title else None
                         url = await title_el.get_attribute("href") if title_el else None
+                        if url and url.startswith("/"):
+                            url = "https://www.youtube.com" + url
+
                         channel = await channel_el.inner_text() if channel_el else None
                         views = await metadata_spans[0].inner_text() if len(metadata_spans) > 0 else None
                         date = await metadata_spans[1].inner_text() if len(metadata_spans) > 1 else None
