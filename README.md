@@ -17,5 +17,4 @@ This project contains two web scrapers built using **Playwright**:
 ## ▶️ Procedure to Run
 - pip install -r requirements.txt
 - python -m playwright install
-
-python main.py
+- python main.py
