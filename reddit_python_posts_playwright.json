@@ -1,0 +1,802 @@
+[
+  {
+    "title": "\ud83d\ude80 A Beautiful Python GUI Framework with Animations, Theming, State Binding & Live Hot Reload",
+    "author": "u/step-czxn",
+    "upvotes": "135",
+    "comments": "37",
+    "url": "https://www.reddit.com/r/Python/comments/1lkwvz9/a_beautiful_python_gui_framework_with_animations/",
+    "time": "20 hr. ago"
+  },
+  {
+    "title": "I accidentally built a vector database using video compression",
+    "author": "u/Every_Chicken_1293",
+    "upvotes": "658",
+    "comments": "89",
+    "url": "https://www.reddit.com/r/Python/comments/1ky24a0/i_accidentally_built_a_vector_database_using/",
+    "time": "1 mo. ago"
+  },
+  {
+    "title": "Kajson: Drop-in JSON replacement with Pydantic v2, polymorphism and type preservation",
+    "author": "u/lchoquel",
+    "upvotes": "59",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1ll1djh/kajson_dropin_json_replacement_with_pydantic_v2/",
+    "time": "17 hr. ago"
+  },
+  {
+    "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
+    "author": "u/AutoModerator",
+    "upvotes": "1",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1llfp2q/friday_daily_thread_rpython_meta_and_freetalk/",
+    "time": "7 hr. ago"
+  },
+  {
+    "title": "FastAPI is usually the right choice",
+    "author": "u/writingonruby",
+    "upvotes": "274",
+    "comments": "134",
+    "url": "https://www.reddit.com/r/Python/comments/1ljrsti/fastapi_is_usually_the_right_choice/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "Kenneth Reitz (Request library creator) current situation",
+    "author": "u/HyenaBrilliant7795",
+    "upvotes": "56",
+    "comments": "10",
+    "url": "https://www.reddit.com/r/Python/comments/1lkwhk0/kenneth_reitz_request_library_creator_current/",
+    "time": "21 hr. ago"
+  },
+  {
+    "title": "Design Patterns You Should Unlearn in Python-Part1",
+    "author": "u/Last_Difference9410",
+    "upvotes": "449",
+    "comments": "101",
+    "url": "https://www.reddit.com/r/Python/comments/1lfcmky/design_patterns_you_should_unlearn_in_pythonpart1/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "Made My First Python Project",
+    "author": "u/TheGuyThyCldFly",
+    "upvotes": "11",
+    "comments": "13",
+    "url": "https://www.reddit.com/r/Python/comments/1lkt6w2/made_my_first_python_project/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "Design Patterns You Should Unlearn in Python-Part2",
+    "author": "u/Last_Difference9410",
+    "upvotes": "231",
+    "comments": "38",
+    "url": "https://www.reddit.com/r/Python/comments/1lgrlza/design_patterns_you_should_unlearn_in_pythonpart2/",
+    "time": "6 days ago"
+  },
+  {
+    "title": "Best Python GUI libraries?",
+    "author": "u/MilanTheNoob",
+    "upvotes": "77",
+    "comments": "60",
+    "url": "https://www.reddit.com/r/Python/comments/1lke8vm/best_python_gui_libraries/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "Functioneer - Do advanced eng/sci analysis in <5 lines of code",
+    "author": "u/qthedoc",
+    "upvotes": "1",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1llermk/functioneer_do_advanced_engsci_analysis_in_5/",
+    "time": "8 hr. ago"
+  },
+  {
+    "title": "The GIL is actually going away \u2014 Have you tried a no-GIL Python?",
+    "author": "u/wyhjsbyb",
+    "upvotes": "342",
+    "comments": "117",
+    "url": "https://www.reddit.com/r/Python/comments/1lccbj2/the_gil_is_actually_going_away_have_you_tried_a/",
+    "time": "11 days ago"
+  },
+  {
+    "title": "Introducing DockedUp: A Live, Interactive Docker Dashboard in Your Terminal \ud83d\udc33",
+    "author": "u/Fragrant_Letter8595",
+    "upvotes": "11",
+    "comments": "4",
+    "url": "https://www.reddit.com/r/Python/comments/1lkmdtf/introducing_dockedup_a_live_interactive_docker/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "PyPDFForm v3.0.0 has released",
+    "author": "u/chinapandaman",
+    "upvotes": "194",
+    "comments": "13",
+    "url": "https://www.reddit.com/r/Python/comments/1ljas6t/pypdfform_v300_has_released/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "PyLine - terminal based text editor (Linux, WSL, MacOS)",
+    "author": "u/Xgf_01",
+    "upvotes": "17",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lkf8pm/pyline_terminal_based_text_editor_linux_wsl_macos/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "Wrote an MIT-licensed book that teaches nonprofits how to use Python to analyze and visualize data",
+    "author": "u/BX1959",
+    "upvotes": "126",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1lgmr2b/wrote_an_mitlicensed_book_that_teaches_nonprofits/",
+    "time": "6 days ago"
+  },
+  {
+    "title": "Procedurally Generating a Tic-Tac-Toe Zine with Python",
+    "author": "u/AlSweigart",
+    "upvotes": "10",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1lki0z0/procedurally_generating_a_tictactoe_zine_with/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "Tired of tracing code by hand?",
+    "author": "u/FanAccomplished2399",
+    "upvotes": "309",
+    "comments": "61",
+    "url": "https://www.reddit.com/r/Python/comments/1kzq9vi/tired_of_tracing_code_by_hand/",
+    "time": "27 days ago"
+  },
+  {
+    "title": "docker-pybuild: Embed Dockerfiles directly in your Python scripts",
+    "author": "u/HCF",
+    "upvotes": "18",
+    "comments": "9",
+    "url": "https://www.reddit.com/r/Python/comments/1lk3jst/dockerpybuild_embed_dockerfiles_directly_in_your/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "My response to Tim Peters: The Zen of Spite",
+    "author": "u/Zeraevous",
+    "upvotes": "121",
+    "comments": "16",
+    "url": "https://www.reddit.com/r/Python/comments/1lkabe1/my_response_to_tim_peters_the_zen_of_spite/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "Is uvloop still faster than asyncio's event loop in python3.13?",
+    "author": "u/webshark_25",
+    "upvotes": "267",
+    "comments": "41",
+    "url": "https://www.reddit.com/r/Python/comments/1l8fwu1/is_uvloop_still_faster_than_asyncios_event_loop/",
+    "time": "16 days ago"
+  },
+  {
+    "title": "django-bootyprint: A django pdf rendering app for WeasyPrint with a CSS companion",
+    "author": "u/IntegrityError",
+    "upvotes": "7",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1lk38ov/djangobootyprint_a_django_pdf_rendering_app_for/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "TemplatePpptx - PowerPoint Templating Library",
+    "author": "u/Werty_S",
+    "upvotes": "14",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1lju8bn/templateppptx_powerpoint_templating_library/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "pAPI - A modular addon-based micro-framework built on FastAPI",
+    "author": "u/PolicyGuilty2674",
+    "upvotes": "7",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lj55cw/papi_a_modular_addonbased_microframework_built_on/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "My open source project gets 1100+ monthly downloads",
+    "author": "u/ivanrj7j",
+    "upvotes": "266",
+    "comments": "18",
+    "url": "https://www.reddit.com/r/Python/comments/1leazx1/my_open_source_project_gets_1100_monthly_downloads/",
+    "time": "9 days ago"
+  },
+  {
+    "title": "Python LangGraph implementation: solving ReAct agent reliability issues",
+    "author": "u/Historical_Wing_9573",
+    "upvotes": "2",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lj4pvk/python_langgraph_implementation_solving_react/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "Robyn (finally) supports Python 3.13 \ud83c\udf89",
+    "author": "u/stealthanthrax",
+    "upvotes": "247",
+    "comments": "36",
+    "url": "https://www.reddit.com/r/Python/comments/1l6ww94/robyn_finally_supports_python_313/",
+    "time": "18 days ago"
+  },
+  {
+    "title": "Robyn (v0.70.0) - A Batteries-Included Web Framework for AI",
+    "author": "u/stealthanthrax",
+    "upvotes": "0",
+    "comments": "14",
+    "url": "https://www.reddit.com/r/Python/comments/1ll79ge/robyn_v0700_a_batteriesincluded_web_framework_for/",
+    "time": "13 hr. ago"
+  },
+  {
+    "title": "FastAPI Guard v3.0 - Now with Security Decorators and AI-like Behavior Analysis",
+    "author": "u/PA100T0",
+    "upvotes": "93",
+    "comments": "19",
+    "url": "https://www.reddit.com/r/Python/comments/1lhxwee/fastapi_guard_v30_now_with_security_decorators/",
+    "time": "4 days ago"
+  },
+  {
+    "title": "What are your favorite modern libraries or tooling for Python?",
+    "author": "u/COSMOSCENTER",
+    "upvotes": "245",
+    "comments": "199",
+    "url": "https://www.reddit.com/r/Python/comments/1l43i8z/what_are_your_favorite_modern_libraries_or/",
+    "time": "22 days ago"
+  },
+  {
+    "title": "PandasBench - The first benchmark for the Pandas API",
+    "author": "u/baziotis",
+    "upvotes": "4",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1liumm2/pandasbench_the_first_benchmark_for_the_pandas_api/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "I made a FOSS feature rich Python template with SOTA tools, security, CI/CD, yet easy to use",
+    "author": "u/szymonmaszke",
+    "upvotes": "80",
+    "comments": "6",
+    "url": "https://www.reddit.com/r/Python/comments/1lim6fb/i_made_a_foss_feature_rich_python_template_with/",
+    "time": "4 days ago"
+  },
+  {
+    "title": "MCP server for any Python CLI",
+    "author": "u/Ofekmeister",
+    "upvotes": "3",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1ll6o26/mcp_server_for_any_python_cli/",
+    "time": "13 hr. ago"
+  },
+  {
+    "title": "I built a tool to add CSS-styled subtitles for videos",
+    "author": "u/_unknownProtocol",
+    "upvotes": "3",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1lilnty/i_built_a_tool_to_add_cssstyled_subtitles_for/",
+    "time": "4 days ago"
+  },
+  {
+    "title": "A modern Python Project Cookiecutter Template, with all the batteries included.",
+    "author": "u/wyattxdev",
+    "upvotes": "219",
+    "comments": "33",
+    "url": "https://www.reddit.com/r/Python/comments/1lcz532/a_modern_python_project_cookiecutter_template/",
+    "time": "11 days ago"
+  },
+  {
+    "title": "Electron/Tauri React-Like Python GUI Lib (Components, State, Routing, Hot Reload, UI) BasedOn PySide",
+    "author": "u/step-czxn",
+    "upvotes": "69",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lh12rc/electrontauri_reactlike_python_gui_lib_components/",
+    "time": "6 days ago"
+  },
+  {
+    "title": "Ranking Alternatives to Streamlit",
+    "author": "u/Intelligent_Camp_762",
+    "upvotes": "58",
+    "comments": "39",
+    "url": "https://www.reddit.com/r/Python/comments/1ljn5t8/ranking_alternatives_to_streamlit/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "An approach to Projects",
+    "author": "u/YouEatMeIEatBack",
+    "upvotes": "12",
+    "comments": "9",
+    "url": "https://www.reddit.com/r/Python/comments/1lfld2q/an_approach_to_projects/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "Recent Noteworthy Package Releases",
+    "author": "u/ashok_tankala",
+    "upvotes": "54",
+    "comments": "5",
+    "url": "https://www.reddit.com/r/Python/comments/1lg0hkc/recent_noteworthy_package_releases/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "pymsi: pure Python library to read & extract Windows MSI files",
+    "author": "u/Nightlark192",
+    "upvotes": "14",
+    "comments": "1",
+    "url": "https://www.reddit.com/r/Python/comments/1lff90t/pymsi_pure_python_library_to_read_extract_windows/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 (Kaggle)",
+    "author": "u/Problemsolver_11",
+    "upvotes": "41",
+    "comments": "6",
+    "url": "https://www.reddit.com/r/Python/comments/1lg1m6g/looking_for_chemistry_enthusiasts_for_neurips/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "Bottleneck type stubs",
+    "author": "u/Beginning-Fruit-1397",
+    "upvotes": "10",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1lfhih7/bottleneck_type_stubs/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "bulletchess, A high performance chess library",
+    "author": "u/Impressive-Bag-2848",
+    "upvotes": "209",
+    "comments": "9",
+    "url": "https://www.reddit.com/r/Python/comments/1kyoyds/bulletchess_a_high_performance_chess_library/",
+    "time": "28 days ago"
+  },
+  {
+    "title": "Certification Tosa",
+    "author": "u/Apprehensive-Bar-793",
+    "upvotes": "12",
+    "comments": "1",
+    "url": "https://www.reddit.com/r/Python/comments/1lffg26/certification_tosa/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "New fastest HTML parser",
+    "author": "u/OxygenDiFluoride",
+    "upvotes": "31",
+    "comments": "10",
+    "url": "https://www.reddit.com/r/Python/comments/1lganqg/new_fastest_html_parser/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "Thursday Daily Thread: Python Careers, Courses, and Furthering Education!",
+    "author": "u/AutoModerator",
+    "upvotes": "15",
+    "comments": "1",
+    "url": "https://www.reddit.com/r/Python/comments/1lewl21/thursday_daily_thread_python_careers_courses_and/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "Best WebSocket Library",
+    "author": "u/kris_2111",
+    "upvotes": "25",
+    "comments": "36",
+    "url": "https://www.reddit.com/r/Python/comments/1ljdlmw/best_websocket_library/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "Fenix: I built an algorithmic trading bot with CrewAI, Ollama, and Pandas.",
+    "author": "u/MoveDecent3455",
+    "upvotes": "24",
+    "comments": "37",
+    "url": "https://www.reddit.com/r/Python/comments/1li8id5/fenix_i_built_an_algorithmic_trading_bot_with/",
+    "time": "4 days ago"
+  },
+  {
+    "title": "NanoTS - Lightning fast, embedded time series database, now with Python bindings!",
+    "author": "u/Razzmatazz_Informal",
+    "upvotes": "12",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1lew5ve/nanots_lightning_fast_embedded_time_series/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "pyleak - detect leaked asyncio tasks, threads, and event loop blocking in Python",
+    "author": "u/deepankarmh",
+    "upvotes": "192",
+    "comments": "12",
+    "url": "https://www.reddit.com/r/Python/comments/1l2y5rz/pyleak_detect_leaked_asyncio_tasks_threads_and/",
+    "time": "23 days ago"
+  },
+  {
+    "title": "gst-python-ml: Python-powered ML analytics for GStreamer pipelines",
+    "author": "u/mfilion",
+    "upvotes": "7",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1leoorm/gstpythonml_pythonpowered_ml_analytics_for/",
+    "time": "9 days ago"
+  },
+  {
+    "title": "FastAPI + Supabase Auth Template",
+    "author": "u/cursor_rik",
+    "upvotes": "175",
+    "comments": "7",
+    "url": "https://www.reddit.com/r/Python/comments/1l2bm0g/fastapi_supabase_auth_template/",
+    "time": "24 days ago"
+  },
+  {
+    "title": "Kavari - dealing with Kafka easy way",
+    "author": "u/sz_dudziak",
+    "upvotes": "8",
+    "comments": "10",
+    "url": "https://www.reddit.com/r/Python/comments/1lefnzf/kavari_dealing_with_kafka_easy_way/",
+    "time": "9 days ago"
+  },
+  {
+    "title": "Should I drop pandas and move to polars/duckdb or go?",
+    "author": "u/MinuteMeringue6305",
+    "upvotes": "160",
+    "comments": "114",
+    "url": "https://www.reddit.com/r/Python/comments/1kxd97o/should_i_drop_pandas_and_move_to_polarsduckdb_or/",
+    "time": "1 mo. ago"
+  },
+  {
+    "title": "PyBox - the fake Virutalbox",
+    "author": "u/MaximeCaulfield",
+    "upvotes": "0",
+    "comments": "7",
+    "url": "https://www.reddit.com/r/Python/comments/1lf6zow/pybox_the_fake_virutalbox/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "datatrees v0.3.2: better static typing with Pylance",
+    "author": "u/GianniMariani",
+    "upvotes": "22",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lijb48/datatrees_v032_better_static_typing_with_pylance/",
+    "time": "4 days ago"
+  },
+  {
+    "title": "I made Termly: that lets you share collaborative terminals over the web",
+    "author": "u/retrix_0_0",
+    "upvotes": "15",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1leanua/i_made_termly_that_lets_you_share_collaborative/",
+    "time": "9 days ago"
+  },
+  {
+    "title": "Built a Python script to automate YouTube Shorts \u2014 looking for feedback on my media rendering pipeli",
+    "author": "u/Melodic-Lunch-9860",
+    "upvotes": "0",
+    "comments": "6",
+    "url": "https://www.reddit.com/r/Python/comments/1lf4ezr/built_a_python_script_to_automate_youtube_shorts/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "mcp\u2011kit: a toolkit for building, mocking and optimizing AI agents",
+    "author": "u/maurosr777",
+    "upvotes": "0",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lei393/mcpkit_a_toolkit_for_building_mocking_and/",
+    "time": "9 days ago"
+  },
+  {
+    "title": "I made a custom RAG chatbot traind on Stanford Encyclopedia of Philosophy articles.",
+    "author": "u/SemperPistos",
+    "upvotes": "0",
+    "comments": "9",
+    "url": "https://www.reddit.com/r/Python/comments/1lecbux/i_made_a_custom_rag_chatbot_traind_on_stanford/",
+    "time": "9 days ago"
+  },
+  {
+    "title": "Just open-sourced Eion - a shared memory system for AI agents",
+    "author": "u/7wdb417",
+    "upvotes": "18",
+    "comments": "10",
+    "url": "https://www.reddit.com/r/Python/comments/1lhbsgi/just_opensourced_eion_a_shared_memory_system_for/",
+    "time": "5 days ago"
+  },
+  {
+    "title": "pyfuze 2.0.2 \u2013 A New Cross-Platform Packaging Tool for Python",
+    "author": "u/TanixLu",
+    "upvotes": "155",
+    "comments": "18",
+    "url": "https://www.reddit.com/r/Python/comments/1l7dwei/pyfuze_202_a_new_crossplatform_packaging_tool_for/",
+    "time": "17 days ago"
+  },
+  {
+    "title": "Built a PySide6 GUI for solid state tight binding calculations",
+    "author": "u/rodinalex",
+    "upvotes": "17",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lj8r6w/built_a_pyside6_gui_for_solid_state_tight_binding/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "\ud83e\udd16 Struggled installing packages in Jupyter AI? Here\u2019s a quick solution using pip inside the notebook",
+    "author": "u/techlatest_net",
+    "upvotes": "0",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1ll3n5v/struggled_installing_packages_in_jupyter_ai_heres/",
+    "time": "15 hr. ago"
+  },
+  {
+    "title": "What ever happened to \"Zope\"?!",
+    "author": "u/RevolutionarySeven7",
+    "upvotes": "153",
+    "comments": "27",
+    "url": "https://www.reddit.com/r/Python/comments/1l9furl/what_ever_happened_to_zope/",
+    "time": "15 days ago"
+  },
+  {
+    "title": "Built a Python solver for dynamic mathematical expressions stored in databases",
+    "author": "u/Alone_Ambition_7581",
+    "upvotes": "12",
+    "comments": "14",
+    "url": "https://www.reddit.com/r/Python/comments/1ldk6dr/built_a_python_solver_for_dynamic_mathematical/",
+    "time": "10 days ago"
+  },
+  {
+    "title": "No more exit()? Yay for exit!",
+    "author": "u/cleverdosopab",
+    "upvotes": "144",
+    "comments": "52",
+    "url": "https://www.reddit.com/r/Python/comments/1l1zeib/no_more_exit_yay_for_exit/",
+    "time": "24 days ago"
+  },
+  {
+    "title": "\ud83e\udd16 Struggled installing packages in Jupyter AI? Here\u2019s a quick solution using pip inside the notebook",
+    "author": "u/techlatest_net",
+    "upvotes": "0",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1ll33sk/struggled_installing_packages_in_jupyter_ai_heres/",
+    "time": "15 hr. ago"
+  },
+  {
+    "title": "Functional programming concepts that actually work in Python",
+    "author": "u/Capable-Mall-2067",
+    "upvotes": "137",
+    "comments": "41",
+    "url": "https://www.reddit.com/r/Python/comments/1kz6kx3/functional_programming_concepts_that_actually/",
+    "time": "28 days ago"
+  },
+  {
+    "title": "Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 (Kaggle)",
+    "author": "u/Problemsolver_11",
+    "upvotes": "15",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lfvj92/looking_for_chemistry_enthusiasts_for_neurips/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "Juvio - UV Kernel for Jupyter",
+    "author": "u/iryna_kondr",
+    "upvotes": "125",
+    "comments": "11",
+    "url": "https://www.reddit.com/r/Python/comments/1l8xwsc/juvio_uv_kernel_for_jupyter/",
+    "time": "16 days ago"
+  },
+  {
+    "title": "Lykos: End to end secrets catcher",
+    "author": "u/papersashimi",
+    "upvotes": "2",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1ll0qkv/lykos_end_to_end_secrets_catcher/",
+    "time": "17 hr. ago"
+  },
+  {
+    "title": "Does anyone here use Python in their work for data gathering tasks?",
+    "author": "u/twilighttwr",
+    "upvotes": "0",
+    "comments": "8",
+    "url": "https://www.reddit.com/r/Python/comments/1lkpx66/does_anyone_here_use_python_in_their_work_for/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
+    "author": "u/AutoModerator",
+    "upvotes": "13",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lfpxzq/friday_daily_thread_rpython_meta_and_freetalk/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "What Python GUI Lib do you like the most?",
+    "author": "u/step-czxn",
+    "upvotes": "123",
+    "comments": "98",
+    "url": "https://www.reddit.com/r/Python/comments/1lffudq/what_python_gui_lib_do_you_like_the_most/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "MicroPie 0.13 is here, websocket support now included.",
+    "author": "u/Miserable_Ear3789",
+    "upvotes": "14",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1ljeutg/micropie_013_is_here_websocket_support_now/",
+    "time": "3 days ago"
+  },
+  {
+    "title": "A simple dictionary validator lib with cli",
+    "author": "u/OxygenDiFluoride",
+    "upvotes": "8",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1ldfqhu/a_simple_dictionary_validator_lib_with_cli/",
+    "time": "10 days ago"
+  },
+  {
+    "title": "Industry standard for implementing and enforcing Design-by-Contract",
+    "author": "u/kris_2111",
+    "upvotes": "0",
+    "comments": "8",
+    "url": "https://www.reddit.com/r/Python/comments/1ldursk/industry_standard_for_implementing_and_enforcing/",
+    "time": "10 days ago"
+  },
+  {
+    "title": "Wavetable synthesis in Python",
+    "author": "u/creative_tech_ai",
+    "upvotes": "13",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lgtqgx/wavetable_synthesis_in_python/",
+    "time": "6 days ago"
+  },
+  {
+    "title": "CRUDAdmin - Modern and light admin interface for FastAPI built with FastCRUD and HTMX",
+    "author": "u/igorbenav",
+    "upvotes": "121",
+    "comments": "11",
+    "url": "https://www.reddit.com/r/Python/comments/1l4yh0g/crudadmin_modern_and_light_admin_interface_for/",
+    "time": "21 days ago"
+  },
+  {
+    "title": "Community Python DevJam - A Collaborative Event for Python Builders (Beginners Welcome)",
+    "author": "u/MrHarryW",
+    "upvotes": "16",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lcz1dy/community_python_devjam_a_collaborative_event_for/",
+    "time": "11 days ago"
+  },
+  {
+    "title": "Pypp: A Python to C++ transpiler [WIP]. Gauging interest and open to advice.",
+    "author": "u/joeblow2322",
+    "upvotes": "113",
+    "comments": "60",
+    "url": "https://www.reddit.com/r/Python/comments/1laf5ss/pypp_a_python_to_c_transpiler_wip_gauging/",
+    "time": "14 days ago"
+  },
+  {
+    "title": "I turned a thermodynamics principle into a learning algorithm - and it lands a moonlander",
+    "author": "u/kongaskristjan",
+    "upvotes": "104",
+    "comments": "25",
+    "url": "https://www.reddit.com/r/Python/comments/1l7y0zh/i_turned_a_thermodynamics_principle_into_a/",
+    "time": "17 days ago"
+  },
+  {
+    "title": "sodalite - an open source media downloader with a pure python backend",
+    "author": "u/TappyNetwork",
+    "upvotes": "10",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1li6ek4/sodalite_an_open_source_media_downloader_with_a/",
+    "time": "4 days ago"
+  },
+  {
+    "title": "Modelling Vasculature through BARWs",
+    "author": "u/eleanor_spencer",
+    "upvotes": "100",
+    "comments": "1",
+    "url": "https://www.reddit.com/r/Python/comments/1lf4djo/modelling_vasculature_through_barws/",
+    "time": "8 days ago"
+  },
+  {
+    "title": "What topics are considered \u201chard\u201d in Python?",
+    "author": "u/Art-BarB",
+    "upvotes": "10",
+    "comments": "58",
+    "url": "https://www.reddit.com/r/Python/comments/1lg0sli/what_topics_are_considered_hard_in_python/",
+    "time": "7 days ago"
+  },
+  {
+    "title": "Pythonic way of unpacking 5D list...",
+    "author": "u/tothespace2",
+    "upvotes": "0",
+    "comments": "14",
+    "url": "https://www.reddit.com/r/Python/comments/1ldqk6j/pythonic_way_of_unpacking_5d_list/",
+    "time": "10 days ago"
+  },
+  {
+    "title": "Thursday Daily Thread: Python Careers, Courses, and Furthering Education!",
+    "author": "u/AutoModerator",
+    "upvotes": "1",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lklnhr/thursday_daily_thread_python_careers_courses_and/",
+    "time": "1 day ago"
+  },
+  {
+    "title": "Tuesday Daily Thread: Advanced questions",
+    "author": "u/AutoModerator",
+    "upvotes": "2",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1ld8te6/tuesday_daily_thread_advanced_questions/",
+    "time": "10 days ago"
+  },
+  {
+    "title": "Python based AI RAG agent that reads your entire project (code + docs) & generates Test Scenarios",
+    "author": "u/iAviPro",
+    "upvotes": "11",
+    "comments": "7",
+    "url": "https://www.reddit.com/r/Python/comments/1lctojk/python_based_ai_rag_agent_that_reads_your_entire/",
+    "time": "11 days ago"
+  },
+  {
+    "title": "What version do you all use at work?",
+    "author": "u/donHormiga",
+    "upvotes": "99",
+    "comments": "142",
+    "url": "https://www.reddit.com/r/Python/comments/1l8chj0/what_version_do_you_all_use_at_work/",
+    "time": "16 days ago"
+  },
+  {
+    "title": "How python knows what you are importing? sys.env + venv + site packages",
+    "author": "u/ResearcherOver845",
+    "upvotes": "0",
+    "comments": "0",
+    "url": "https://www.reddit.com/r/Python/comments/1lkb4i2/how_python_knows_what_you_are_importing_sysenv/",
+    "time": "2 days ago"
+  },
+  {
+    "title": "Monday Daily Thread: Project ideas!",
+    "author": "u/AutoModerator",
+    "upvotes": "5",
+    "comments": "2",
+    "url": "https://www.reddit.com/r/Python/comments/1lcesq1/monday_daily_thread_project_ideas/",
+    "time": "11 days ago"
+  },
+  {
+    "title": "Pydantic / Celery Seamless Integration",
+    "author": "u/catalyst_jw",
+    "upvotes": "97",
+    "comments": "15",
+    "url": "https://www.reddit.com/r/Python/comments/1l5m6s5/pydantic_celery_seamless_integration/",
+    "time": "20 days ago"
+  },
+  {
+    "title": "Fast, lightweight parser for Securities and Exchanges Commission Inline XBRL",
+    "author": "u/status-code-200",
+    "upvotes": "8",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1lhdspc/fast_lightweight_parser_for_securities_and/",
+    "time": "5 days ago"
+  },
+  {
+    "title": "Sunday Daily Thread: What's everyone working on this week?",
+    "author": "u/AutoModerator",
+    "upvotes": "6",
+    "comments": "10",
+    "url": "https://www.reddit.com/r/Python/comments/1lhag85/sunday_daily_thread_whats_everyone_working_on/",
+    "time": "5 days ago"
+  },
+  {
+    "title": "MicroPie (ultra thin ASGI framework) version 0.9.9.8 Released",
+    "author": "u/Miserable_Ear3789",
+    "upvotes": "96",
+    "comments": "26",
+    "url": "https://www.reddit.com/r/Python/comments/1kwd9ml/micropie_ultra_thin_asgi_framework_version_0998/",
+    "time": "1 mo. ago"
+  },
+  {
+    "title": "Inviting people to work on AIrFlask",
+    "author": "u/elprezidante0",
+    "upvotes": "6",
+    "comments": "7",
+    "url": "https://www.reddit.com/r/Python/comments/1lhi2ew/inviting_people_to_work_on_airflask/",
+    "time": "5 days ago"
+  },
+  {
+    "title": "Yet another Python framework \ud83d\ude05",
+    "author": "u/Sea-Dance8242",
+    "upvotes": "92",
+    "comments": "29",
+    "url": "https://www.reddit.com/r/Python/comments/1ldpb5j/yet_another_python_framework/",
+    "time": "10 days ago"
+  },
+  {
+    "title": "package-ui.nvim now supports pip/python",
+    "author": "u/TibFromParis",
+    "upvotes": "5",
+    "comments": "3",
+    "url": "https://www.reddit.com/r/Python/comments/1lg3ngd/packageuinvim_now_supports_pippython/",
+    "time": "7 days ago"
+  }
+]
